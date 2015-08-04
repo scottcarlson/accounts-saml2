@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'ritstudentgovernment:accounts-saml2',
+  name: 'scottcarlsonjr:accounts-saml2',
   summary: 'SAML Authentication for Meteor',
   version: '0.0.1',
-  git: 'https://github.com/ritstudentgovernment/accounts-saml2.git'
+  git: 'https://github.com/scottcarlson/accounts-saml2.git'
 });
 
 Npm.depends({
